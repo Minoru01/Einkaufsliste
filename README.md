@@ -2,7 +2,7 @@
 Eine Einkaufsliste
 
 # Bild
-![](serious.jpg "Hier, ein Bild..."
+![](serious.jpg "Hier, ein Bild...")
 
 ###Lebenslauf
 
