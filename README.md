@@ -9,4 +9,4 @@ Eine Einkaufsliste
 * wohnt in: gütetete
 * aktuelle tätigkeit: Student
 
-![Image of me](C:\Users\schneider\Pictures\unbenannt)
+![Image of me](C:\Users\schneider\Einkaufsliste.PNG)
