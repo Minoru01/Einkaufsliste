@@ -1,6 +1,9 @@
 # Einkaufsliste
 Eine Einkaufsliste
 
+# Bild
+![](serious.jpg "Hier, ein Bild..."
+
 ###Lebenslauf
 
 **Bastian Schneider**
