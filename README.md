@@ -6,5 +6,5 @@ Eine Einkaufsliste
 **Bastian Schneider**
 * geb 12121.1242.4242
 * zur schule gegangen: hdhdhd gdgd
-* wohnt in: gütetete
+* wohnt in: gütetetenbabababa
 * aktuelle tätigkeit: Student
