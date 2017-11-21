@@ -1,10 +1,10 @@
-# Einkaufsliste
+﻿# Einkaufsliste
 Eine Einkaufsliste
 
 ###Lebenslauf
 
 **Bastian Schneider**
-* geb 12121.1242.4242
+* geb 99999.9999.99999
 * zur schule gegangen: hdhdhd gdgd
 * wohnt in: gütetetenbabababa
 * aktuelle tätigkeit: Student
